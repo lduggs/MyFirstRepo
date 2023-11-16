@@ -1,2 +1,2 @@
-pring ("Hello World")
+print ("Hello World")
 
